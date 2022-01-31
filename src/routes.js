@@ -15,4 +15,5 @@ export default createRouter({
       component: UsersList,
     },
   ],
+  linkActiveClass: 'active-link',
 });
